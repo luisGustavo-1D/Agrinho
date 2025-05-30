@@ -29,6 +29,10 @@ header {
 }
 
 .Img1 {
-    width: 50%;
-    height: 50%;
+    width: 500px;
+    height: 500px;
+}
+
+.pacote1 {
+    border: 4px solid black;
 }
